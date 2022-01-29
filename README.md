@@ -10,8 +10,9 @@ You can save your mobile numbers/contact numbers in a text file using this tool.
 I made this tool to improve my programming skills and to help people with this tool!
 
 ## Important Note
-And yes, I tried a lot to add edit function in the book but I failed :( 
+- I tried a lot to add edit function in the book but I failed :( 
  Maybe I will add in future..
+- You have to change the file path in the code. Just make a txt file, copy its path, amd change it in the code.
 
 
 # THANKS!
